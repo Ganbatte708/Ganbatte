@@ -2,7 +2,6 @@
 ## Personal profile
 ### My career history
 #### Details
-<!-- Hidden text !>
 An accomplished senior IT executive with 35+ years experience:
   Leader in digital transformation and innovation.
   MNCs - legal tech, pharmaceutical, consumer health, crop science, chemical, banking, and retail. 
